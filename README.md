@@ -1,2 +1,2 @@
 # linux
-my own version of the linux commands:rm 
+my own version of the linux commands 
