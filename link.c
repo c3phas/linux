@@ -1,8 +1,4 @@
-/*This will be used to create a link for a file *
- * use gcc -o output link.c to compile the file *
- *allows you to link one file to multiple paths *
- * the command should only be run in  unix/linux*
-*/
+/*This will be used to create a link for a file*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
