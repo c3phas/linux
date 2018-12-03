@@ -19,6 +19,11 @@ int main(int argc, char **argv)
 	
 		printf("usage :crypt password salt\n");
 		exit(EXIT_FAILURE);	
+	
+	}else{
+	
+		printf("usage :crypt password salt\n");
+	
 	}
 
 
